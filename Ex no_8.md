@@ -1,5 +1,5 @@
 # EX 8 C program to perform multiplication and division of two numbers using functions (without argument and without return type).
-## DATE:29/04/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to perform multiplication and division of two numbers using functions (without argument and without return type).
 
